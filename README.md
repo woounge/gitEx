@@ -24,11 +24,17 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 ##### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
 
+<br/>
+
 ##### 데이터 수집 및 처리
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
 
+<br/>
+
 ##### 웹페이지로 시각화
 <img src="https://img.shields.io/badge/Streamlit-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
+
+<br/>
 
 ## Description of Used Models
 - LogisticRegression
@@ -46,6 +52,8 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 - XGBoost(Extream Gradient Boosting)
   
   효율적이고 확장 가능한 그라디언트 부스팅 알고리즘의 한 형태이다. 분류 및 회귀에 사용되며 성능과 자원 효율이 좋아 자주 사용되는 알고리즘이다.
+
+<br/>
   
 ## Model Training Results
 |모델명|혼동행렬|ROC Curve 그래프|
@@ -55,8 +63,12 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 |랜덤 포레스트|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_roccurve.png" width = "300" height = "250">|
 |XGBoost|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_roccurve.png" width = "300" height = "250">|  
 
+<br/>
+
 ## Streamlit 구현
 <img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/%ED%9A%8C%EC%9B%90%EC%9D%B4%ED%83%88%20%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1.png">  
+
+<br/>
 
 ## Project Result Analysis
 - **결론**: feature 각각과 churn은 상관계수가 높지 않지만 기계학습 결과가 매우 좋은 것으로 나타났다.
@@ -67,6 +79,8 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 - **한계**: E 커머스 기업들의 대부분이 고객 관련 데이터를 기업 비밀로 관리하고 있기 때문에, 수업 때 배운 시계열로 추출할 수 있는 데이터나, 정확한 고객별 구매기록, 매출 등 BM과 직접적으로 연관된 데이터를 구할 수 없어 분석해보지 못했다. 우리가 선정한 데이터에서 유의미한 다른 특성을 도출해보려 했지만, 앞선 이유와 특성들이 이미 충분히 독립적인 이유로 새로운 특성을 찾는 데 한계가 있었다.
 
 - **개선점**: 현재는 고객 데이터를 CSV 파일로 불러왔지만, DB에 저장된 고객 데이터를 직접 불러와 모델로 확률을 계산해 고객 이탈 리스크를 계산하는 방식으로 개선 가능하다.
+
+<br/>
   
 ## Reference
 - 자료 출처
