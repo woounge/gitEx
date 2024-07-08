@@ -43,11 +43,12 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 |XGBoost|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_roccurve.png" width = "300" height = "250">|
 
 ## Reference
-- 자료 출처(https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
+- 자료 출처
+    https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 - 참고 사이트
-  https://www.kaggle.com/code/yasinmhmd/e-commerce-churn-99-accuracy
-  https://www.epnc.co.kr/news/articleView.html?idxno=303682
-  https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
-  https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
-  https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
+    https://www.kaggle.com/code/yasinmhmd/e-commerce-churn-99-accuracy
+    https://www.epnc.co.kr/news/articleView.html?idxno=303682
+    https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
+    https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
+    https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
   
