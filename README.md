@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e?pvs=4)
 
 ## 프로젝트 목표
-재경 직무 질의응답 Dataset 을 LLM을 연동한 내외부 문서 기반 질의 응답 시스템을 만들어 현직 재경 업무 종사자의 올바른 의사 결정을 도와주는 웹 서비스를 구현한다.
+재경 직무 질의응답 Dataset 을 LLM을 활용하여 내외부 문서 기반 질의 응답 시스템을 만들어 현직 재경 업무 종사자의 올바른 의사 결정을 도와주는 웹 서비스를 구현한다.
 
 <br/>
 
