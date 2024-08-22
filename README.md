@@ -31,7 +31,7 @@
 <br/>
 
 ##### 데이터 수집 및 처리
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/pytorch-03D937?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/llama3-506065?style=for-the-badge&logo=llama3&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/pytorch-FFFB54?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/openaiapi-506065?style=for-the-badge&logo=openaiapi&logoColor=white">
 
 <br/>
 
