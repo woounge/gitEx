@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e?pvs=4)
 
-#### 주제
+## 주제
 재경 업무 지원 QnA 서비스
 
 ## 목표
