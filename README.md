@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>]((https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e?pvs=4))
+[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>]((https://www.notion.so/b991c70c22e34cb5a6a8c55be1997910?pvs=4))
 
 노션 링크 수정해!!!!!!!!!!!11
 
