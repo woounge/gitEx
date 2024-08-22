@@ -66,6 +66,4 @@
 ## Reference
 - 자료 출처
 
-  [E-commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
-
-- 참고 문헌(?)
+- 참고 자료
