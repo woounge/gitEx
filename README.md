@@ -36,7 +36,7 @@
 <br/>
 
 ##### 웹페이지로 시각화
-<img src="https://img.shields.io/badge/Streamlit-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
+<img src="https://img.shields.io/badge/Streamlit-43B02A?style=for-the-badge&logo=Streamlit&logoColor=white">  
 
 <br/>
 
