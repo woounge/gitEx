@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>]([(https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e)](https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e))
+[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>]([(https://www.notion.so/QnA-2f31917289ca4f5fa4436dedbecfa00e)])
 
 ## Objective
 E-commerce Customer Churn Dataset 을 분석하여 향후 고객 이탈 예측을 하고자 한다. 상관계수를 측정하여 Churn과 가장 높은 연관이 있는 항목을 찾아내고 머신러닝(및 딥러닝)에 적용하여 고객 이탈을 막는 방안을 수립한다.
@@ -20,8 +20,8 @@ E-commerce Customer Churn Dataset 을 분석하여 향후 고객 이탈 예측�
 
 <br/>
 
-## Team 3
-김진유(팀장) 박경희 정우영 정인교  
+## Team 2
+이재원(PM) 정영재 전상욱 정우영
 
 <br/>
 
