@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/b991c70c22e34cb5a6a8c55be1997910?pvs=4)
+[<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>]([https://www.notion.so/b991c70c22e34cb5a6a8c55be1997910?pvs=4](https://www.notion.so/3rd-Project-QnA-899239c608354b2886e3dd6bc2ce6e96?pvs=4))
 
 ## 프로젝트 목표
 재경 직무 질의응답 Dataset 을 LLM을 연동한 내외부 문서 기반 질의 응답 시스템을 만들어 현직 재경 업무 종사자의 올바른 의사 결정을 도와주는 웹 서비스를 구현한다.
@@ -31,7 +31,7 @@
 <br/>
 
 ##### 데이터 수집 및 처리
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/scikitlearn-777777?style=for-the-badge&logo=scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/matplotlib-4A154B?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/llama3-150458?style=for-the-badge&logo=llama3&logoColor=white">
 
 <br/>
 
