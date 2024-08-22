@@ -15,7 +15,7 @@
 <br/>
 
 ## 데이터셋 선정 배경
-현직 회계사들이 기업의 회계 감사를 할 때 내부 재경 직무 담당자들의 빈번하고 사소한 실수를 발견하여 감사를 진행하는데 차질이 생겨 불편하다는 불만사항이 있었다. 재경 직무 수행에 있어 실수를 줄일 수 있도록 올바른 의사 결정을 하는데 도움이 되는 웹 서비스의 필요성을 인지하여 
+현직 회계사들이 기업의 회계 감사를 할 때 내부 재경 직무 담당자들의 빈번하고 사소한 실수를 발견하여 감사를 진행하는데 차질이 생겨 불편하다는 불만사항이 있었다. 재경 직무 수행 시 발생할 수 있는 실수를 최소화할 수 있는 웹 서비스의 개발로 올바른 의사 결정을 하는데 도움이 되고자 하여 선정하게 되었다. 
 
 <br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 ##### 데이터 수집 및 처리
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/llama3-506065?style=for-the-badge&logo=llama3&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/llama3-506065?style=for-the-badge&logo=llama3&logoColor=white"><img src="https://img.shields.io/badge/pytorch-002030?style=for-the-badge&logo=pytorch&logoColor=white">
 
 <br/>
 
