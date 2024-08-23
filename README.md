@@ -43,9 +43,6 @@
 
 <br/>
 
-## 결과
-(내용추가)
-
 ## 모델 학습 결과
 - 첫 번째 시도(Llama3)
   ![image (2)](https://github.com/user-attachments/assets/a4e24b2d-528f-4eb3-85fd-9ef6df492bed)
@@ -54,23 +51,18 @@
   ![image (1)](https://github.com/user-attachments/assets/d700bc84-5afb-407a-926a-be65ae6c5adf)
 
 - 세 번째 시도(OpenAI)
+  ![image (3)](https://github.com/user-attachments/assets/d5263ee3-75b6-4532-a71d-21546244ab68)
 
 <br/>
 
-## Streamlit 구현(수정필요)
+## Streamlit 구현
 
 
 
 <br/>
 
 ## 한계 및 개선점
-- 현재 Dataset에는 단답형으로 대답이 가능한 질문만 포함되어 있음.<br/>
- → 차후에는 대변/차변 회계 처리에 대한 답을 주거나, 세액 계산까지 해주는 서비스로 발전 가능함.<br/>
+- 학습은 성공적이었지만 시간부족으로 인해 스트림릿으로 구현까지 수행하지는 못함.<br/>
 - 국제회계기준(IFRS)이라는 대원칙이 있지만, 실제 기업별 세부 회계 정책이 각각 약간씩 상이하므로 각 기업에 맞추어 파인튜닝 필요.
 
 <br/>
-  
-## Reference
-- 자료 출처
-
-- 참고 자료
