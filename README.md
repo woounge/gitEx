@@ -47,12 +47,19 @@
 (내용추가)
 
 ## 모델 학습 결과
-(내용추가)
+- 첫 번째 시도(Llama3)
+  ![image (2)](https://github.com/user-attachments/assets/a4e24b2d-528f-4eb3-85fd-9ef6df492bed)
+
+- 두 번째 시도(Llama3)
+  ![image (1)](https://github.com/user-attachments/assets/d700bc84-5afb-407a-926a-be65ae6c5adf)
+
+- 세 번째 시도(OpenAI)
 
 <br/>
 
 ## Streamlit 구현(수정필요)
-<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/%ED%9A%8C%EC%9B%90%EC%9D%B4%ED%83%88%20%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1.png">  
+
+
 
 <br/>
 
