@@ -22,9 +22,6 @@ SKN2기 9월 단위프로젝트
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/langchain-DDE072?style=for-the-badge&logo=langchain&logoColor=white"><img src="https://img.shields.io/badge/openai-FF1B2D?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/chromadb-999999?style=for-the-badge&logo=chromadb&logoColor=white"><img src="https://img.shields.io/badge/duckduckgo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white">
 
 
-📝 WBS
-
-
 ✅ 요구사항 명세서
 
 
