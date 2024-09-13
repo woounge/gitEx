@@ -52,7 +52,7 @@
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
 1. 직무/직군 정보에 대한 질문을 했을때<br>
-![결과1](https://github.com/user-attachments/assets/467934e4-bb24-4355-aa62-3f3c3c5d1dda)
+![결과1](https://github.com/user-attachments/assets/467934e4-bb24-4355-aa62-3f3c3c5d1dda)<br>
 2. 직무/직군 정보와 관련 없는 질문했을때<br>
 ![결과2](https://github.com/user-attachments/assets/40d95b15-b448-41c0-96bb-1ac39b26b419)
 
