@@ -42,8 +42,8 @@
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
 (결과 화면 캡처 추가)
-- 직무와 직군에 대한 질문<br>
-![결과1](https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959)
+1. 직무와 직군에 대한 질문<br>
+<img src= "https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959"  width="800" height="450" />
 
 - 한계:<br>
 검색을 통해 정보를 얻기 때문에 응답을 생성하는 데 시간이 오래 걸린다.<br>
