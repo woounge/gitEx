@@ -3,19 +3,19 @@ SKN2기 9월 단위프로젝트
 
 [<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/SKN02_4th_1Team-8b4ecbc4245343579f61a1eab2d301ad)
 
-#  1 팀 👩‍🏫
+** 1 팀 **
 팀장 : 강민호
 팀원 :  박주희, 장준영, 정우영
 
 #  프로젝트
 
-👨‍🏫 프로젝트 개요
+👨‍🏫 ** 프로젝트 개요 **
 
 
-👩‍🏫 서비스 목표
+✅ ** 요구사항 분석 **
 
 
-🔨 기술 스택
+🔨 ** 기술 스택 **
 <br/>
 
 #### 웹페이지 구현에 사용된 기술
@@ -28,12 +28,7 @@ SKN2기 9월 단위프로젝트
 #### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-
-
-✅ 요구사항 명세서
-
-
-💻 DB 테이블 - ERD 및 DDL
+💻 ** 구조도 **
 
 
 📚 주요 프로시저
