@@ -25,6 +25,8 @@
 <br>
 
 
+
+
 🔨 **기술 스택**
 #### 웹페이지 구현에 사용된 기술
 <img src="https://img.shields.io/badge/html-31A8FF?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
@@ -36,15 +38,25 @@
 #### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br>
+
+
+
+
 💻 **구조도**<br>
 <img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="800" height="450" />
 <br>
+
+
+
+
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
 1. 직무/직군 정보에 대한 질문을 했을때<br>
 <img src= "https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959"  width="800" height="550" /><br>
 2. 직무/직군 정보와 관련 없는 질문했을때<br>
 <img src="https://github.com/user-attachments/assets/40d95b15-b448-41c0-96bb-1ac39b26b419" width="700" height="550" />
+
+
 
 
 - 한계:<br>
