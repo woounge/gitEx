@@ -42,7 +42,8 @@
 
 
 
-💻 **구조도**<br>
+💻 **구조도**
+<br>
 <img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="800" height="450" />
 <br>
 <br>
