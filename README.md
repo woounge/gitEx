@@ -40,8 +40,11 @@
 <img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="800" height="450" />
 
 📚 **수행결과 및 결과분석**
-- 결과 화면:
+- 결과 화면:<br>
 (결과 화면 캡처 추가)
+- 직무와 직군에 대한 질문<br>
+![결과1](https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959)
+
 - 한계:<br>
 검색을 통해 정보를 얻기 때문에 응답을 생성하는 데 시간이 오래 걸린다.<br>
 기업의 정보나 기사에 대한 내용을 질문할 경우, 자신의 역할이 아니라고 답변하는 경우가 있다.
