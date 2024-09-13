@@ -44,7 +44,7 @@
 
 💻 **구조도**
 <br>
-![구조도]("https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5")
+<img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" />
 <br>
 <br>
 
