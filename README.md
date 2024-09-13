@@ -18,7 +18,7 @@ SKN2기 9월 단위프로젝트
 <br/>
 
 #### 웹페이지 구현에 사용된 기술
-<img src="https://img.shields.io/badge/html-43B02A?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/html-31A8FF?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
 
 #### 챗봇 모델 구현에 사용된 기술
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/langchain-DDE072?style=for-the-badge&logo=langchain&logoColor=white"><img src="https://img.shields.io/badge/openai-FF1B2D?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/chromadb-999999?style=for-the-badge&logo=chromadb&logoColor=white"><img src="https://img.shields.io/badge/duckduckgo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white"><br/>
