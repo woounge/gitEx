@@ -13,7 +13,7 @@
   이러한 정보를 얻기 위해 사람이 직접 검색하여 정리하는 수고를 줄여주고자 이 주제를 선정했다.
   직무별 요구 역량과 세부 업무 내용을 제공함으로써 구직자들이 목표를 명확히 설정할 수 있게 한다.
 - 사용 데이터: SK Networks careers 웹사이트 크롤링 데이터
-
+<br>
 ✅ **요구사항 분석**
 1. 직무와 직군에 대해 질문하면 답변이 가능해야 한다.
 2. 기업 정보에 대해 질문하면 답변이 가능해야 한다.
@@ -22,7 +22,7 @@
 5. 응답 생성에 너무 오랜 시간이 걸리지 않아야 한다.
 
 문제 해결 범위: 모든 기업의 정보를 제공하는 것은 정보의 양이 방대하기 때문에 SK 네트웍스의 정보만 제공하기로 한정했다.
-
+<br>
 🔨 **기술 스택**
 <br/>
 
@@ -35,10 +35,10 @@
 
 #### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+<br>
 💻 **구조도**<br>
 <img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="800" height="450" />
-
+<br>
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
 1. 직무/직군 정보에 대한 질문을 했을때<br>
@@ -53,7 +53,7 @@
 - 개선할 점:<br>
 검색을 통해 정보를 얻기 때문에 응답 속도가 느리다 <br>→ 사용자의 질문에 따라 검색한 내용을 모델이 필요한 내용들로 정리하여 문장을 만든다. 이 문장을 DB에 저장하여 관리하면, 유사한 질문이 있을 때 agent가 검색 대신 DB에서 정보를 빠르게 찾아 응답할 수 있어 속도가 개선될 것이다.<br>
 기업의 일부 정보나 기사에 대한 질문을 할 경우 자신의 역할이 아니라고 답변한다 <br>→ 관계 없는 질문이라고 판단하는 부분이 template에서 지정된 내용에만 의존하기 때문에 정확도가 낮은 것으로 보인다. 관계의 유무를 판단하는 단계를 좀 더 강화할 필요가 있다.
-
+<br>
 📌 **참고 자료**
 - 부트스트랩 템플릿 : https://startbootstrap.com/previews/grayscale
 - SK Networks 채용사이트: https://www.sknetworks.co.kr/career
