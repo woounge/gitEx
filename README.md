@@ -22,7 +22,7 @@
 5. 응답 생성에 너무 오랜 시간이 걸리지 않아야 한다.
 
 문제 해결 범위: 모든 기업의 정보를 제공하는 것은 정보의 양이 방대하기 때문에 SK 네트웍스의 정보만 제공하기로 한정했다.
-<br>
+<br><br>
 
 
 
@@ -38,15 +38,14 @@
 #### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br>
-
+<br>
 
 
 
 💻 **구조도**<br>
 <img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="800" height="450" />
 <br>
-
-
+<br>
 
 
 📚 **수행결과 및 결과분석**
