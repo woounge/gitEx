@@ -42,7 +42,7 @@
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
 1. 직무/직군 정보에 대한 질문을 했을때<br>
-<img src= "https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959"  width="800" height="550" />
+<img src= "https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959"  width="800" height="550" /><br>
 2. 직무/직군 정보와 관련 없는 질문했을때<br>
 <img src="https://github.com/user-attachments/assets/40d95b15-b448-41c0-96bb-1ac39b26b419" width="800" height="550" />
 
