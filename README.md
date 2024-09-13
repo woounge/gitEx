@@ -1,6 +1,4 @@
 # SKN02-4th-1Team
-SKN2기 9월 단위프로젝트
-
 [<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/SKN02_4th_1Team-8b4ecbc4245343579f61a1eab2d301ad)
 
 **1 팀**<br/>
