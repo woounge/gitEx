@@ -41,8 +41,11 @@
 
 📚 **수행결과 및 결과분석**
 - 결과 화면:<br>
-1. 직무와 직군에 대한 질문<br>
+1. 직무/직군 정보에 대한 질문을 했을때<br>
 <img src= "https://github.com/user-attachments/assets/6cea61c4-88a5-442e-8b06-b16ed873d959"  width="800" height="550" />
+2. 직무/직군 정보와 관련 없는 질문했을때<br>
+<img src="https://github.com/user-attachments/assets/40d95b15-b448-41c0-96bb-1ac39b26b419" width="800" height="550" />
+
 
 - 한계:<br>
 검색을 통해 정보를 얻기 때문에 응답을 생성하는 데 시간이 오래 걸린다.<br>
@@ -50,3 +53,7 @@
 - 개선할 점:<br>
 검색을 통해 정보를 얻기 때문에 응답 속도가 느리다 <br>→ 사용자의 질문에 따라 검색한 내용을 모델이 필요한 내용들로 정리하여 문장을 만든다. 이 문장을 DB에 저장하여 관리하면, 유사한 질문이 있을 때 agent가 검색 대신 DB에서 정보를 빠르게 찾아 응답할 수 있어 속도가 개선될 것이다.<br>
 기업의 일부 정보나 기사에 대한 질문을 할 경우 자신의 역할이 아니라고 답변한다 <br>→ 관계 없는 질문이라고 판단하는 부분이 template에서 지정된 내용에만 의존하기 때문에 정확도가 낮은 것으로 보인다. 관계의 유무를 판단하는 단계를 좀 더 강화할 필요가 있다.
+
+📌 **참고 자료**
+- 부트스트랩 템플릿 : https://startbootstrap.com/previews/grayscale
+- SK Networks 채용사이트: https://www.sknetworks.co.kr/career
