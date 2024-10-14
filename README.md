@@ -39,7 +39,7 @@
 
 <!-- 첫 번째 줄 -->
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-FF4500?style=for-the-badge&logo=mysql&logoColor=white"> <!-- 주황색으로 변경 -->
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/html5-FF5733?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/fastapi-00A187?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/gpt4-944AEB?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/gpt4mini-8A2BE2?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/gpt4mini-FF1493?style=for-the-badge&logo=openai&logoColor=white"> <!-- 핫핑크로 변경 -->
 <br>
 
 <!-- 세 번째 줄 -->
@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/VoiceModel-CCCCCC?style=for-the-badge&logo=comingsoon&logoColor=white">
 
 </div>
+
 
 
 
