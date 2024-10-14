@@ -28,7 +28,7 @@
 
 
 🔨 **기술 스택**
-#### 웹페이지 구현에 사용된 기술
+
 <img src="https://img.shields.io/badge/html-31A8FF?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
 
 #### 챗봇 모델 구현에 사용된 기술
@@ -39,6 +39,104 @@
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br>
 <br>
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>기술 스택</title>
+    <style>
+        .icon-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .icon-container div {
+            text-align: center;
+        }
+        .icon {
+            width: 60px;
+            height: 60px;
+        }
+        .icon-label {
+            margin-top: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-container">
+        <!-- Python -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" class="icon" alt="Python">
+            <div class="icon-label">Python</div>
+        </div>
+
+        <!-- MySQL -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" class="icon" alt="MySQL">
+            <div class="icon-label">MySQL</div>
+        </div>
+
+        <!-- Django -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" class="icon" alt="Django">
+            <div class="icon-label">Django</div>
+        </div>
+
+        <!-- HTML5 -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" class="icon" alt="HTML5">
+            <div class="icon-label">HTML5</div>
+        </div>
+
+        <!-- CSS3 -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" class="icon" alt="CSS3">
+            <div class="icon-label">CSS3</div>
+        </div>
+
+        <!-- JavaScript -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" class="icon" alt="JavaScript">
+            <div class="icon-label">JavaScript</div>
+        </div>
+
+        <!-- FastAPI -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/fastapi.svg" class="icon" alt="FastAPI">
+            <div class="icon-label">FastAPI</div>
+        </div>
+
+        <!-- AWS -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" class="icon" alt="AWS">
+            <div class="icon-label">AWS</div>
+        </div>
+
+        <!-- GitHub -->
+        <div>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" class="icon" alt="GitHub">
+            <div class="icon-label">GitHub</div>
+        </div>
+
+        <!-- Placeholder for Vision Model -->
+        <div>
+            <img src="https://via.placeholder.com/60" class="icon" alt="Vision Model">
+            <div class="icon-label">Vision Model (후보)</div>
+        </div>
+
+        <!-- Placeholder for Voice Recognition Model -->
+        <div>
+            <img src="https://via.placeholder.com/60" class="icon" alt="Voice Recognition Model">
+            <div class="icon-label">음성인식 모델 (후보)</div>
+        </div>
+    </div>
+</body>
+</html>
+
+
 
 
 
