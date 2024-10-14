@@ -29,24 +29,24 @@
 
 🔨 **기술 스택**
 
-언어
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-데이터베이스
+
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-프론트엔드
+
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-백엔드
+
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-서비스 배포
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-LLM 모델
+
 Closed: <img src="https://img.shields.io/badge/gpt4-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/gpt4-mini-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/turbo-16k-412991?style=for-the-badge&logo=openai&logoColor=white">
 Open: <img src="https://img.shields.io/badge/ollama-FF6F61?style=for-the-badge&logo=ollama&logoColor=white">
 <img src="https://img.shields.io/badge/bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-Vision 모델 (후보)
+
 <img src="https://img.shields.io/badge/VisionModel-999999?style=for-the-badge&logo=comingsoon&logoColor=white">
-음성인식 모델 (후보)
+
 <img src="https://img.shields.io/badge/VoiceModel-999999?style=for-the-badge&logo=comingsoon&logoColor=white">
 
 
