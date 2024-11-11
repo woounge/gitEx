@@ -60,6 +60,29 @@
 <img src="https://img.shields.io/badge/VisionModel-999999?style=for-the-badge&logo=comingsoon&logoColor=white">
 <img src="https://img.shields.io/badge/VoiceModel-CCCCCC?style=for-the-badge&logo=comingsoon&logoColor=white">
 
+백엔드: 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-00A187?style=for-the-badge&logo=fastapi&logoColor=white">
+프론트엔드: 
+<img src="https://img.shields.io/badge/html-FF5733?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+데이터베이스:
+<img src="https://img.shields.io/badge/mysql-FF4500?style=for-the-badge&logo=mysql&logoColor=white">
+도커: 
+<img src="https://img.shields.io/badge/docker-944AEB?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/dockercompose-FF1493?style=for-the-badge&logo=dockercompose&logoColor=white">
+클라우드:
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+기타: 
+
+<img src="https://img.shields.io/badge/turbo16k-4B0082?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/ollama-FF6F61?style=for-the-badge&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/VisionModel-999999?style=for-the-badge&logo=comingsoon&logoColor=white">
+<img src="https://img.shields.io/badge/VoiceModel-CCCCCC?style=for-the-badge&logo=comingsoon&logoColor=white">
+
 </div>
 
 <br>
